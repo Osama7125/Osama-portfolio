@@ -1,2 +1,0 @@
-# Osama-portfolio
-My resume
